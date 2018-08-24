@@ -1,2 +1,2 @@
 # pigment
-Linux system bar
+Linux system status bar

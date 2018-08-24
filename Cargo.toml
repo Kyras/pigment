@@ -1,0 +1,13 @@
+[package]
+name = "pigment"
+version = "0.1.0"
+authors = ["Martin Lacko <mrt.lacko@gmail.com>"]
+publish = false
+description = "Linux system status bar"
+keywords = ["system bar", "bar"]
+license-file = "LICENSE"
+
+[dependencies]
+clap = "2.32"
+log = "0.4"
+stderrlog = "0.4"
